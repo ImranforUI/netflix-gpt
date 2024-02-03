@@ -18,4 +18,4 @@
 
 - NetflixGPT
     - Search Bar
-    - Movie Suggestions
+    - Movie Suggestion
