@@ -6,7 +6,7 @@ import appStore from "./utils/appStore";
 
 function App() {
   return (
-    <div className="">
+    <div className="overflow-scroll no-scrollbar">
       <Provider store={appStore}>
         <Body />
       </Provider>
